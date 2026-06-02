@@ -54,3 +54,7 @@ footer {
     border: solid black 1px;
     box-sizing: border-box;
 }
+
+.aluno{
+    font-size: 12px;
+}
